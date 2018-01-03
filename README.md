@@ -174,7 +174,7 @@ public class CalculationFactory {
 
 只需要三行代码，我们就完成了。这样如果有很多地方都需要调用此类运算，我们可以轻松的维护，同时在新增运算方法的时候，我们并不需要像之前那样，在一堆代码中进行修改，只需要新建一个类，实现对应的接口，完成自己的运算逻辑，最后加在 **工厂类** CalculationFactory 中即可大功告成。不用再担心是否会破坏其他的代码，修改运算逻辑的时候也是如此，从此不再害怕需求的扩展。多人同时开发只需要定义好接口即可，开发结束后统一创建工厂类即可，易扩展，已维护，易复用的简单工厂模式到这里就介绍完了，从此告别一团乱麻。（笑脸）
 
-github传送门： [简单工厂模式](https://github.com/CourageCong/EasyFactory)
+csdn传送门： [设计模式之路（一）——简单工厂模式](http://blog.csdn.net/dacongge/article/details/78958584)
 
 （听说真的有大佬打赏）
 ![这里写图片描述](http://img.blog.csdn.net/20180103162614042?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZGFjb25nZ2U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
