@@ -176,6 +176,7 @@ public class CalculationFactory {
 
 github传送门： [简单工厂模式](https://github.com/CourageCong/EasyFactory)
 
+（听说真的有大佬打赏）
 ![这里写图片描述](http://img.blog.csdn.net/20180103162614042?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZGFjb25nZ2U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
